@@ -1,0 +1,30 @@
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+"""
+Created on Sun Oct 27 15:25:14 2024
+
+@author: legend
+"""
+
+# list =[1,2, 3]
+# list[1]=4
+# print(list)
+
+# x=(1,2,3)
+
+# print(list+x)
+
+for i in [1,2,2,3,3,]:
+    if i == 2:
+        print(i)
+for k in range(30):
+    if k+2==2:
+        print(k)
+        
+ekodict={"a": "apple", "b": "boy", "c": "cattle"}
+
+aDict =  {1: 1, 3: 2, 6: 0, 7: 0, 8: 4, 10: 0}
+
+for key in aDict:
+    if key ==
+
